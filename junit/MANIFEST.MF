@@ -1,0 +1,2 @@
+Class-Path: libs/commons-lang3-3.5.jar
+Main-Class: pl.poznan.jug.javac.Main
